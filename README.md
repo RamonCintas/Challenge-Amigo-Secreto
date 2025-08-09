@@ -89,11 +89,8 @@ Ou simplesmente baixe o `.zip` e extraia para uma pasta.
 
 - Video do projeto:
 
-
+[video.webm](https://github.com/user-attachments/assets/6ad084bb-0a20-4a80-a53b-3ab448ac8905)
 
 - Link do github pages -> https://ramoncintas.github.io/Challenge-Amigo-Secreto
 
 ---
-
-
-
